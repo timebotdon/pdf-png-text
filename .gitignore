@@ -1,0 +1,5 @@
+/node_modules
+*traineddata*
+*.png
+*.pdf
+/output
